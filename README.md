@@ -1,1 +1,1 @@
-Its a simple crud flutter app
+Its a simple crud flutter app with block architecture
